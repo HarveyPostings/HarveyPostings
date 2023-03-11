@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+----------------------------------------------
+
+I'm Harvey Postings, an A Level Computer Science and Maths student working towards a job in the computer science industry!
+
+Improvements in the form of pull requests and issues are greatly appreciated.
+
+
+
 <!--
 **HarveyPostings/HarveyPostings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
