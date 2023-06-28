@@ -13,7 +13,7 @@ I'm currently working on:
 
 - Linux
 - Javascript
-- C++
+- C
 - Cloudfare
 
 Thanks for checking out my page! If you have any queries or you want to get in contact, [my website] ([currently in progress]) has pages for that!
